@@ -1,6 +1,7 @@
 # SmartPrinter
 
-Smartly Print your Docs for Unity. SmartPrinter is a part of SmartDLL. 
+Smartly Print your Docs for Unity. SmartPrinter is a part of SmartDLL.
+Email : support@electronicbrain.net 
 
 • SmartPrinter.PrintDocument(string texts, string headerDir)
 Call this function for Print a document with Header image.Header Image Resolution should be according to A4 page size. Download PSD templete from Github. A4 Page screen resolution : 595 pixels x 842 pixels 
