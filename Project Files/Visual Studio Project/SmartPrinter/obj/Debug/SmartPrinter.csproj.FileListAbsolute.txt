@@ -1,0 +1,6 @@
+C:\Users\srejo\OneDrive\Documents\GitHub\SmartPrinter\SmartPrinter\SmartPrinter\bin\Debug\SmartPrinter.dll
+C:\Users\srejo\OneDrive\Documents\GitHub\SmartPrinter\SmartPrinter\SmartPrinter\bin\Debug\SmartPrinter.pdb
+C:\Users\srejo\OneDrive\Documents\GitHub\SmartPrinter\SmartPrinter\SmartPrinter\obj\Debug\SmartPrinter.csprojAssemblyReference.cache
+C:\Users\srejo\OneDrive\Documents\GitHub\SmartPrinter\SmartPrinter\SmartPrinter\obj\Debug\SmartPrinter.csproj.CoreCompileInputs.cache
+C:\Users\srejo\OneDrive\Documents\GitHub\SmartPrinter\SmartPrinter\SmartPrinter\obj\Debug\SmartPrinter.dll
+C:\Users\srejo\OneDrive\Documents\GitHub\SmartPrinter\SmartPrinter\SmartPrinter\obj\Debug\SmartPrinter.pdb
