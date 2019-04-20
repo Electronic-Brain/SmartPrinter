@@ -1,5 +1,7 @@
 # SmartPrinter
 
+Smartly Print your Docs for Unity. SmartPrinter is a part of SmartDLL. 
+
 • SmartPrinter.PrintDocument(string texts, string headerDir)
 Call this function for Print a document with Header image.Header Image Resolution should be according to A4 page size. Download PSD templete from Github. A4 Page screen resolution : 595 pixels x 842 pixels 
 Param texts = String that you want to Print in doc. Use Environment.NewLine to break a line. Check Example Class for more info.
