@@ -14,22 +14,22 @@ Use Photoshop to open that PSD.You can make edits there or can make new one acco
 •Unity Project
 Use Unity Engine to open unity project. Just example about how does it work and how can you implement. You can watch our videos for better explanation instead of opening project. 
 
-•About Contribution 
+#About Contribution 
 This project is free to use. You can make changes and make it better. Your name will be added to Credit. 
 
-•About SmartDLL 
+#About SmartDLL 
 SmartDLL is a collection of neccessary managed plugin that we need to develop our desired project. But sometimes, some thing is so deep or complex that has never done before or rarely but not available for everyone. 
 Electronic Brain will develop those rare things from community's feedback. So your feedback and contribution is so helpful for us. Your donation will effect our development speed. We will be able to focus on Programming. Donation information has given below. 
 
-•About Electronic Brain 
+#About Electronic Brain 
 Electronic brain is a Game Studio based on Bangladesh. But there are some creative person from other country who make creative things for Electronic Brain 
 
-•About Contributors 
- ◘Srejon Khan◘
+#About Contributors 
+ Srejon Khan
  Game Programmer, Electronic Brain 
  Using Unity over 4 years. Use C# and PHP,MySQL for backend. Worked on various client project and games. Worked as Assistant programmer in   DR.Paedi and Lead Programmer in Last Breath.  
 
- ◘Ashikur Rahman 
+ Ashikur Rahman 
  Game Programmer, Electronic Brain 
  Using Unity over 3 years. Use C# and PHP,MySQL for backend.Worked on various client project and games. Successfull Lead Programmer in   DR.Paedi and Assistant Programmer in Last Breath.  
 
