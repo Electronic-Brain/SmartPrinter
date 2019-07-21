@@ -8,10 +8,10 @@ Call this function for Print a document with Header image.Header Image Resolutio
 Param texts = String that you want to Print in doc. Use Environment.NewLine to break a line. Check Example Class for more info.
 Param headerDir = Header image dir with file name and extension.
 
-•Header Templete 
+• **Header Templete** 
 Use Photoshop to open that PSD.You can make edits there or can make new one according to A4's screen resoltion. 
 
-•Unity Project
+• **Unity Project**
 Use Unity Engine to open unity project. Just example about how does it work and how can you implement. You can watch our videos for better explanation instead of opening project. 
 
 # Contribution 
